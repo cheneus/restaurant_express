@@ -1,0 +1,19 @@
+{
+  "name": "restaurant_express",
+  "version": "1.0.0",
+  "description": "learning example with a restaurant booking.",
+  "main": "restaurant.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheneus/restaurant_express.git"
+  },
+  "author": "Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheneus/restaurant_express/issues"
+  },
+  "homepage": "https://github.com/cheneus/restaurant_express#readme"
+}
